@@ -2,7 +2,7 @@ import static org.junit.Assert.assertFalse;
 import static org.junit.Assert.assertTrue;
 import org.junit.Test;
 
-public class loginTest {
+public class LoginTest {
 
     @Test
     public void testLoginSuccessful() {
